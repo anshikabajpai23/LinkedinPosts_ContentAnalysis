@@ -52,7 +52,7 @@ This repository contains the data, code, and academic paper for a qualitative co
 
 - Posts were collected from **LinkedIn** using keyword searches (e.g., *"AI challenges," "AI mistakes," "AI adoption"*).
 - Data was coded into categories based on the **AI Adoption Challenges Framework (Stack AI, 2023)**.
-- Final dataset contains **59 coded entries** across multiple challenge categories.
+- Final dataset contains **51 coded entries** across multiple challenge categories.
 
 ---
 
